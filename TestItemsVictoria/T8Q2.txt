@@ -1,0 +1,12 @@
+START TEXT
+Album cover art
+One of the pioneering bands to take advantage of album cover art and its power of marketability were, of course, one of the most famous groups of all time, the Beatles. Their album "Yesterday and Today" (also known as the "butcher album") is highly collectible and, if you have an original, it is highly priced and is one of the holy grails of record collecting. Although Capitol Records recalled the album, many were released as promotional material to DJ's and critics. Only then did the uproar ensue. You see, the Beatles were tired of Capitol Records chopping up their albums and repackaging them (the songs on this particular release are album cuts from previous Beatles' albums including "Help!" and "Revolver"), so they posed with decapitated baby dolls, slabs of meat and fake blood as kind of a quasi protest, not ever thinking it would go out to the public; to the Beatles it was just a funny thing to do. Capitol Records quickly intervened and recalled thousands of record albums and pasted over the "butcher cover" with what is now known as the "trunk cover."
+The Beatles took the cover photo because
+END TEXT
+ANSWER: B
+START ANSWERS
+a)	They wanted to make a scandal 
+b)	The fake body parts in the photo symbolised the way Capitol Records were removing and adding songs to their albums.
+c)	They always wanted to release an album cover like that
+d)	They knew that such album cover would make them even more popular
+END ANSWERS

@@ -1,0 +1,14 @@
+START TEXT
+Football
+How to describe Saturday's match between Chelsea and Arsenal? Well, I seem to recall a London gallery exhibiting a pile of rubbish, which was considered valid art by the proprietors and drew a large attendance.  
+The only redeeming feature of a goalless, worthless event at Stamford Bridge was that it did not require a grant. Yet the Chelsea manager, Bobby Campbell, and Arsenal assistant, Theo Foley, agreed it had been a good match, and the spectators ' complaints were muted. Some even applauded the players at the end. It takes all sorts.  
+Bobby Robson was there to assess  World Cup candidates, but nothing positive emerged  from  90 minutes of scuffling  that made  one almost yearn for the more measured boredom of Rangers' European Cup exit  in Munich three days earlier. At least the outcome was appropriate. Had either of the teams won, they would have taken the League leadership. Instead Liverpool stayed top without kicking a ball.   
+According to the spectators: 
+END TEXT
+ANSWER: C
+START ANSWERS
+a)	All spectators agreed that the match was very good
+b)	Bobby Campbell and Theo Foley agreed that the match was good but none of  the spectators liked it
+c)	Some spectators liked the match, other spectators did not.
+d)	The text does not say
+END ANSWERS
